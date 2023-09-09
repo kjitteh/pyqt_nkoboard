@@ -7,6 +7,7 @@ Type out anything you n'ko copy the text and copy it to anywhere.
 1. download the NkoBoardSetup.exe file
 2. run the setup to install the app
 3. run app and start the typing N'ko Alphabet in the most intuitive way.
+
 Enjoy!
 
 ![NkoBoard App Preview](nkoboard_preview.gif)
