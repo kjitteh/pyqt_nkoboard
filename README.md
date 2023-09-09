@@ -11,3 +11,5 @@ Type out anything you n'ko copy the text and copy it to anywhere.
 Enjoy!
 
 ![NkoBoard App Preview](nkoboard_preview.gif)
+
+you can also try [NkoBoard online](https://nkolearner.com/typing/nkoboard-online)
